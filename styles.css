@@ -1,0 +1,23 @@
+ol{
+    font-family: monospace;
+}
+button{
+    padding: 20px;
+    margin: 50px;
+}
+img{
+    width: 150px;
+}
+#content_wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#img-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+
+
