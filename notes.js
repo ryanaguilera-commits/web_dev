@@ -24,3 +24,9 @@ let images = ["https://www.ufc.com/images/styles/athlete_bio_full_body/s3/2018-1
 function change(){
     document.getElementById("Image").src = "https://www.ufc.com/images/styles/athlete_bio_full_body/s3/2018-10/JOHNSON_DEMETRIOUS_L.png?VersionId=HRDdP7nmVjZwEyiRKdzDsVlwTPEUIfm_&itok=78m5FpiX"
 }
+document.getElementById("99").style.display = 
+document.getElementById("98").addEventListener('mouseenter',hover(){
+    hoverImage.style.display = 'block';
+
+    })
+}
