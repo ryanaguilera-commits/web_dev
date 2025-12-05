@@ -29,4 +29,3 @@ document.getElementById("98").addEventListener('mouseenter',hover(){
     hoverImage.style.display = 'block';
 
     })
-}
